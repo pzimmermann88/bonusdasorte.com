@@ -1,0 +1,5 @@
+Abra com o Sublime Text 3 o index.html caso queira mudar alguma
+informação no site, como dizeres, casas, avaliações, etc.
+
+Abra a pasta de CSS e então use o Sublime Text 3 para abrir o 
+arquivo lá dentro para modificar as cores no site.
